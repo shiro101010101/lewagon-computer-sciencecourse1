@@ -1,5 +1,6 @@
 # Le Wagon Berlin. ǀ 
-# Data Science Bootcamp 6-month part-time coding bootcamp.
+# Data Science 
+6-month part-time coding bootcamp.
 Data Analysis : Python, Jupyter, VS Code, Debugging (Basic), SQL, NumPy, Pandas, Google BigQuery (Query / Wrangling) Matplotlib, Seaborn (Vis) Statsmodels (en python mais provient de R), A/B Testing, Hypothesis Testing (Stats)
 
 # Dev as a team skills: Git, GitHub (Actions for CI/CD)
