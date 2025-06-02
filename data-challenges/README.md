@@ -1,3 +1,8 @@
+# 💡 AI & Data Science Portfolio
+
+Welcome to my personal project portfolio. This repository showcases a variety of data science and AI challenges completed during my studies at **Le Wagon** and my 1-year experience studying **Artificial Intelligence at TH Deggendorf, Germany**.  
+I am passionate about applying **machine learning**, **data analytics**, and **cloud tools** to solve real-world business and societal problems.
+
 # Le Wagon Berlin. ǀ 
 # Data Science 
 6-month part-time coding bootcamp.
@@ -95,4 +100,10 @@ AI & Data Science Project Portfolio
 📚 Skills Gained: API design, CI/CD, containerization
 ✅ Outcome: Inference-ready production API
 🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/04-Predict-in-production
+
+## 🎓 Education & Certifications
+
+- 🎓 **Le Wagon Data Science Bootcamp (Full-Time)**  
+- 🎓 **BSc in Artificial Intelligence (1 year)** – TH Deggendorf, Germany  
+- 🗣 **Languages**: Japanese(Native),English (C1), German (studying for B2),
 
