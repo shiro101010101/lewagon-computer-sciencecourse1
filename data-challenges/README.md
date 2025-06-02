@@ -3,35 +3,96 @@
 6-month part-time coding bootcamp.
 Data Analysis : Python, Jupyter, VS Code, Debugging (Basic), SQL, NumPy, Pandas, Google BigQuery (Query / Wrangling) Matplotlib, Seaborn (Vis) Statsmodels (en python mais provient de R), A/B Testing, Hypothesis Testing (Stats)
 
-# Dev as a team skills: Git, GitHub (Actions for CI/CD)
+AI & Data Science Project Portfolio
+🧠 Skills Map
+• Python & Data: Pandas, NumPy, JSON, Regex, Web Scraping (BeautifulSoup), APIs • Visualization: Matplotlib, Seaborn, Plotly, Correlation Heatmaps, Ridgeline Plots • Machine Learning: Scikit-learn, SVM, Logistic Regression, KNN, Model Evaluation, Grid Search • Deep Learning: TensorFlow, Keras, CNN, LSTM, Autoencoder, Transfer Learning • NLP: NLTK, CountVectorizer, TF-IDF, Word2Vec, Naive Bayes, Sentiment Analysis • Data Engineering: MLFlow, Docker, FastAPI, GCP, GitHub Actions, CI/CD, Cloud Run • Time Series: LSTM, Facebook Prophet, ARIMA, SARIMA, RNN • Version Control: Git, GitHub
 
-# Soft Skills: 
-Problem solving, POC design & implementation, Presentation of scientific results to business audience, Pitch conception & presentation, Collaboration workflow (2 weeks team project, Github & GCP project), Teamwork (Buddy)
+💼 Selected Projects
+💼 Sales Analysis Dashboard
+📂 Category: Data Visualization
+📝 Context: Created visual summaries of monthly/yearly sales trends
+🛠 Tools & Libraries: Matplotlib, Seaborn, Pandas
+📚 Skills Gained: Scatter plots, bar charts, correlation heatmaps
+✅ Outcome: Identified KPIs and visual insights
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/03-Data-Visualization
 
-# Data Science Portfolio
-https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges
+💼 US Oil & Gas Production Analysis
+📂 Category: Time Series & EDA
+📝 Context: Analyzed production across U.S. states
+🛠 Tools & Libraries: Pandas, Matplotlib, Seaborn
+📚 Skills Gained: Time series aggregation, ridgeline plotting
+✅ Outcome: Identified production trends
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/02-Data-Toolkit
 
-## 0-Project:
-NPL Project Abusive Language is an umbrella term generally used to group together offensive language, hate speech,cyberbullying, and trolling
-Code
-https://github.com/atathana/profanity_detector
+💼 Titanic Survival Prediction (Kaggle)
+📂 Category: Machine Learning
+📝 Context: Predicted Titanic survival using ML models
+🛠 Tools & Libraries: Scikit-learn, Logistic Regression, SVM
+📚 Skills Gained: Preprocessing, feature selection, model tuning
+✅ Outcome: ~80% accuracy
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/05-ML
 
-Project Presentation
-https://www.canva.com/design/DAE3AIOutis/VZYuZXX1yyirtu8c1jj2ig/view?utm_content=DAE3AIOutis&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+💼 Taxi Fare Prediction Pipeline (Kaggle)
+📂 Category: Data Engineering
+📝 Context: Built full ML pipeline for fare prediction
+🛠 Tools & Libraries: Scikit-learn, MLFlow, Google Cloud
+📚 Skills Gained: Feature engineering, model packaging, cloud deployment
+✅ Outcome: Completed full ML workflow with hyperparameter tuning
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/07-Data-Engineering
 
-# 01-Python 02-Data-Toolkit 03-Maths 04-Decision Science
-Data collection,Data mining,Data Analysis
-(API,Scraping,Statistic SQL,Linear regression,Logistic Regression)
+💼 Spam Email Classifier
+📂 Category: NLP
+📝 Context: Binary classification of spam vs. ham
+🛠 Tools & Libraries: CountVectorizer, NLTK, Naive Bayes
+📚 Skills Gained: Text cleaning, TF-IDF, classification metrics
+✅ Outcome: 90%+ precision
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/10-Natural-Language-Processing
 
-# 05-ML
-https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/05-ML
-ML Fundamentals,Data Preparation,Performance metrics,Workflow,Ensemble methods,
-Unsupervised learning,Time Series,NPL
+💼 Movie Review Sentiment Analysis
+📂 Category: NLP
+📝 Context: Classify IMDb reviews (positive/negative)
+🛠 Tools & Libraries: Word2Vec, Logistic Regression
+📚 Skills Gained: Text embeddings, classification, TF-IDF comparison
+✅ Outcome: 87% accuracy
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/10-Natural-Language-Processing
 
-# 06-Deep Learning:
- TensorFlow/Keras, Neural Networks, CNN, RNN, NLP(text)
-https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/06-Deep-Learning
+💼 Stock Market API Scraper
+📂 Category: Web Scraping & API
+📝 Context: Collected real-time financial data
+🛠 Tools & Libraries: Requests, BeautifulSoup
+📚 Skills Gained: REST API parsing, data wrangling
+✅ Outcome: Automated data pipeline
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/02-Data-Sourcing
 
-# 07-ML Ops,-Data-Engineering
-: Docker, Streamlit (Front), Prefect, MLflow, FastAPI, Google Cloud Platform[GCP] (Cloud Storage, BigQuery, Cloud Run, Cloud Artifact, Compute Engine)
-https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/07-Data-Engineering
+💼 MNIST Handwritten Digit Classifier
+📂 Category: Deep Learning
+📝 Context: Classify handwritten digits with CNN
+🛠 Tools & Libraries: TensorFlow, Keras
+📚 Skills Gained: CNN layers, dropout, batch norm
+✅ Outcome: >98% test accuracy
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/03-Convolutional-Neural-Networks
+
+💼 Air Pollution Forecasting with LSTM
+📂 Category: Time Series & Deep Learning
+📝 Context: Forecast air quality using sequence data
+🛠 Tools & Libraries: TensorFlow, Keras
+📚 Skills Gained: LSTM modeling, RNN preprocessing
+✅ Outcome: Accurate short-term predictions
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/06-Deep-Learning
+
+💼 Face Recognition with PCA
+📂 Category: Unsupervised Learning / Vision
+📝 Context: Dimensionality reduction for facial recognition
+🛠 Tools & Libraries: Scikit-learn, OpenCV
+📚 Skills Gained: PCA, eigenfaces
+✅ Outcome: Real-time face match based on principal components
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/05-ML
+
+💼 ML Model Deployment (FastAPI + Docker)
+📂 Category: Deployment / MLOps
+📝 Context: Built and deployed an ML model via REST API
+🛠 Tools & Libraries: FastAPI, Docker, Google Cloud Run
+📚 Skills Gained: API design, CI/CD, containerization
+✅ Outcome: Inference-ready production API
+🔗 GitHub Link: https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/04-Predict-in-production
+
