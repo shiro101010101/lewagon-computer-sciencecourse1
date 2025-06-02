@@ -3,6 +3,11 @@
 Welcome to my personal project portfolio. This repository showcases a variety of data science and AI challenges completed during my studies at **Le Wagon** and my 1-year experience studying **Artificial Intelligence at TH Deggendorf, Germany**.  
 I am passionate about applying **machine learning**, **data analytics**, and **cloud tools** to solve real-world business and societal problems.
 
+## 🎓 Education & Certifications
+- 🎓 **Le Wagon Data Science Bootcamp (Full-Time)**  
+- 🎓 **BSc in Artificial Intelligence (1 year)** – TH Deggendorf, Germany  
+- 🗣 **Languages**: Japanese(Native),English (C1), German (studying for B2),
+
 # Le Wagon Berlin. ǀ 
 # Data Science 
 6-month part-time coding bootcamp.
@@ -168,12 +173,46 @@ AI & Data Science Project Portfolio
 🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/04-Predict-in-production)
 
 
-## 🎓 Education & Certifications
+# 🎓 AI & Computer Science Studies – TH Deggendorf
 
-- 🎓 **Le Wagon Data Science Bootcamp (Full-Time)**  
-- 🎓 **BSc in Artificial Intelligence (1 year)** – TH Deggendorf, Germany  
-- 🗣 **Languages**: Japanese(Native),English (C1), German (studying for B2),
+Welcome to my academic summary of the **Artificial Intelligence B.Sc.** program at **Technische Hochschule Deggendorf**, Germany.  
+This repository outlines the skills and knowledge acquired during my 1st and 2nd semesters, focusing on core computer science, AI foundations, and hands-on projects.
 
+---
+
+## 📚 Curriculum Overview
+
+### 🖥️ Computer Science & Programming
+- **Java Programming** (Programming 1): OOP, control structures, methods, file I/O, exception handling
+- **Python Programming** (Programming 2): Data processing, scripting, functions, practical exercises
+- **Algorithms & Data Structures**: Lists, trees, hash tables, graphs, sorting, recursion, complexity, quantum computing topics
+- **Foundations of Computer Science**: Binary, formal languages (BNF), finite automata, Turing machines, logic circuits, regular expressions
+
+### 🧮 Mathematics for Computer Science
+- **Mathematics 1**: Sets, propositional logic, sequences, functions, continuity, limits, differentiation
+- **Mathematics 2**: Matrices, vector spaces, complex numbers, linear systems, integration, applications in analysis
+
+### 🤖 Artificial Intelligence Foundations
+- **Intro to AI**: R basics, statistics, Boolean logic, fuzzy logic, first-order logic, Shannon's information theory
+
+### 🌐 Systems & Web Technologies
+- **Operating Systems & Networks**: Linux, memory & process management, OSI model, TCP/IP, threading, protocol layers
+- **Internet Technologies**: Full-stack development with Java & React, chatbot project, backend/frontend concepts
+- **Computational Logic**: Declarative programming using ASP with Clingo
+
+### 💼 Key Competencies
+- **Key Competencies I**: Self-organization, media & research skills, business administration fundamentals
+- **Key Competencies II**: Technical language proficiency (English/German)
+
+---
+
+## 🧠 Sample Academic Projects
+- 🤖 Chatbot Web App (Java + React)
+- 🔢 Turing Machine Simulator (Python)
+- 📊 Sorting Algorithm Benchmarking
+- 🧩 Logic Programming Challenges with Clingo
+
+---
 
 > 📢  
 > *Feel free to fork or explore each repo for code and notebooks.*
