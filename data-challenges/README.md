@@ -157,17 +157,6 @@ Forecasting with statistical SARIMA model
 
 ---
 
-### 💼  
-### ML Model Deployment (FastAPI + Docker)  
-
-📂 *Category*: Deployment / MLOps  
-📝 *Context*: Built and deployed an ML model via REST API  
-🛠 *Tools*: FastAPI, Docker, Google Cloud Run  
-📚 *Skills*: API design, CI/CD, containerization  
-✅ *Outcome*: Inference-ready production API  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/04-Predict-in-production)
-
-
 # 🎓 AI & Computer Science Studies – TH Deggendorf
 
 Welcome to my academic summary of the **Artificial Intelligence B.Sc.** program at **Technische Hochschule Deggendorf**, Germany.  
@@ -202,10 +191,16 @@ This repository outlines the skills and knowledge acquired during my 1st and 2nd
 ---
 
 ## 🧠 Sample Academic Projects
-- 🤖 Chatbot Web App (Java + React)
-- 🔢 Turing Machine Simulator (Python)
-- 📊 Sorting Algorithm Benchmarking
-- 🧩 Logic Programming Challenges with Clingo
+### 🤖 [Chatbot Web App (JavaScript + React)](https://github.com/euph0x/ChatBot-InternetTech)  
+📂 **Category**: Full-Stack Web App / NLP Interface  
+📝 **Context**: University project for “Internet Technologies” at TH Deggendorf under Prof. Dr. Andreas Wölfl  
+🛠 **Tools**: React, HTML5, CSS, Node.js, Express.js, WebSocket (Socket.IO)  
+📚 **Skills**:  
+- Intent detection via keyword spotting  
+- Real-time chat via WebSocket  
+- Modular frontend with reusable React components  
+- Mobile-responsive design  
+✅ **Outcome**: Fully functional chatbot interface with backend logic, designed for Q&A interaction exceeding 20+ turns, deployed to Microsoft Azure.
 
 ---
 
