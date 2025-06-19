@@ -206,8 +206,8 @@ This repository outlines the skills and knowledge acquired during my 1st and 2nd
 
 ---
 
-# # 🎓 Udemy – The Complete Web Development Bootcamp  
-# #  🌐 Full-Stack Web Development Portfolio
+## 🎓 Udemy – The Complete Web Development Bootcamp  
+## 🌐 Full-Stack Web Development Portfolio
 
 Welcome to my Web Development Bootcamp Portfolio!  
 This repository showcases hands-on projects completed during the [Udemy 2020 Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).  
