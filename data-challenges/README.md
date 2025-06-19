@@ -42,12 +42,13 @@ AI & Data Science Project Portfolio
 
 ---
 
-### Team Project [Profanity Detector](https://github.com/atathana/profanity_detector)  
+### Team Project Profanity Detector
 📂 **Category**: NLP / Text Cleaning  
 📝 **Context**: Built a profanity detection library  
 🛠 **Tools**: Python, Regex  
 📚 **Skills**: Dictionary matching, custom filtering logic  
 ✅ **Outcome**: Lightweight reusable text sanitization module  
+🔗 [GitHub](https://github.com/atathana/profanity_detector)
 
 ---
 
@@ -141,19 +142,20 @@ AI & Data Science Project Portfolio
 ### MNIST Image Classifier  
 
 📂 *Category*: Deep Learning  
-📝 *Context*: Classify handwritten digits with CNN  
+📝 *Context*: Classify Image with CNN  
 🛠 *Tools*: TensorFlow, Keras  
 📚 *Skills*: CNN layers, dropout, batch norm  
-✅ *Outcome*: >98% test accuracy  
+✅ *Outcome*: Classify Image
 🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/06-Deep-Learning/03-Convolutional-Neural-Networks/01-MNIST-Classification/cifar_classification.ipynb)
 
 ---
 
 ### 💼  
-### ⏱️ [Time Series Modeling with SARIMA](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/09-Time-Series/solution_05-ML_09-Time-Series_03-SARIMA/sarima_solution.ipynb)  
+### ⏱️ Time Series Modeling with SARIMA
 Forecasting with statistical SARIMA model  
 **Tools**: Statsmodels, SARIMA  
 **Outcome**: Modeled seasonal trends & generated reliable forecasts
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/09-Time-Series/solution_05-ML_09-Time-Series_03-SARIMA/sarima_solution.ipynb)
 
 ---
 
