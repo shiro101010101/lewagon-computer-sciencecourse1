@@ -4,7 +4,7 @@ Welcome to my personal project portfolio. This repository showcases a variety of
 I am passionate about applying **machine learning**, **data analytics**, and **cloud tools** to solve real-world business and societal problems.
 
 ## 🎓 Education & Certifications
-- 🎓 **Le Wagon Data Science Bootcamp (Full-Time)**  
+- 🎓 **Le Wagon Data Science Bootcamp (part-Time)**  
 - 🎓 **BSc in Artificial Intelligence (1 year)** – TH Deggendorf, Germany  
 - 🗣 **Languages**: Japanese(Native),English (C1), German (studying for B2),
 
@@ -42,6 +42,17 @@ AI & Data Science Project Portfolio
 
 ---
 
+### [Profanity Detector](https://github.com/atathana/profanity_detector)  
+A Python-based profanity detection tool for identifying offensive or inappropriate words in text.  
+**Tools**: Python, Regular Expressions, Custom Wordlist  
+**Features**:  
+- Detects profane words using a customizable dictionary  
+- Replaces profanities with asterisks or custom characters  
+- Lightweight and easy to integrate into other projects  
+**Outcome**: Built a reusable and efficient profanity detection library ready for real-world applications
+
+---
+
 ### 💼  
 ### Sales Analysis Dashboard  
 
@@ -50,7 +61,7 @@ AI & Data Science Project Portfolio
 🛠 *Tools*: Matplotlib, Seaborn, Pandas  
 📚 *Skills*: Scatter plots, bar charts, correlation heatmaps  
 ✅ *Outcome*: Identified KPIs and visual insights  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/03-Data-Visualization)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/04-Decision-Science/05-Communicate/solution_04-Decision-Science_05-Communicate_01-CEO-request/CEO_request.ipynb)
 
 ---
 
@@ -62,31 +73,33 @@ AI & Data Science Project Portfolio
 🛠 *Tools*: Pandas, Matplotlib, Seaborn  
 📚 *Skills*: Time series aggregation, ridgeline plotting  
 ✅ *Outcome*: Identified production trends  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/02-Data-Toolkit)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/02-Data-Toolkit/01-Data-Analysis/02-US-Oil-and-Gas-Production/Exercise.ipynb)
 
 ---
 
 ### 💼  
-### Titanic Survival Prediction (Kaggle)  
+### Titanic Survival Prediction ,House price
 
 📂 *Category*: Machine Learning  
 📝 *Context*: Predicted Titanic survival using ML models  
 🛠 *Tools*: Scikit-learn, Logistic Regression, SVM  
 📚 *Skills*: Preprocessing, feature selection, model tuning  
 ✅ *Outcome*: ~80% accuracy  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/05-ML)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/05-Model-Tuning/05-Titanic/solution_05-ML_05-Model-Tuning_05-Titanic/titanic_classifier_solution.ipynb)
+
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/06-Deep-Learning/04-Recurrent-Neural-Networks/solution_06-Deep-Learning_01-Fundamentals-of-Deep-Learning_04-Houses-Kaggle-Competition-Bis/houses_kaggle_competition_bis_solution.ipynb)
 
 ---
 
 ### 💼  
-### Taxi Fare Prediction Pipeline (Kaggle)  
+### Taxi Fare Prediction Pipeline 
 
 📂 *Category*: Data Engineering  
 📝 *Context*: Built full ML pipeline for fare prediction  
 🛠 *Tools*: Scikit-learn, MLFlow, Google Cloud  
 📚 *Skills*: Feature engineering, model packaging, cloud deployment  
 ✅ *Outcome*: Completed full ML workflow with hyperparameter tuning  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/07-Data-Engineering)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/07-Data-Engineering/02-ML-Iteration/02-Taxi-Fare-Pipeline/Taxifare-Pipelines.ipynb)
 
 ---
 
@@ -98,7 +111,7 @@ AI & Data Science Project Portfolio
 🛠 *Tools*: CountVectorizer, NLTK, Naive Bayes  
 📚 *Skills*: Text cleaning, TF-IDF, classification metrics  
 ✅ *Outcome*: 90%+ precision  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/10-Natural-Language-Processing)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/10-Natural-Language-Processing/01-Ham-or-Spam/solution_05-ML_10-Natural-Language-Processing_01-Ham-or-Spam/01-Ham-or-Spam-Solution.ipynb)
 
 ---
 
@@ -109,8 +122,8 @@ AI & Data Science Project Portfolio
 📝 *Context*: Classify IMDb reviews (positive/negative)  
 🛠 *Tools*: Word2Vec, Logistic Regression  
 📚 *Skills*: Text embeddings, classification, TF-IDF comparison  
-✅ *Outcome*: 87% accuracy  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/10-Natural-Language-Processing)
+✅ *Outcome*: 80% accuracy  
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/10-Natural-Language-Processing/02-Movie-Reviews/02-Movie-reviews.ipynb)
 
 ---
 
@@ -122,43 +135,27 @@ AI & Data Science Project Portfolio
 🛠 *Tools*: Requests, BeautifulSoup  
 📚 *Skills*: REST API parsing, data wrangling  
 ✅ *Outcome*: Automated data pipeline  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/02-Data-Sourcing)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/02-Data-Toolkit/02-Data-Sourcing/01-Stock-Market-API/created_book.ipynb)
 
 ---
 
 ### 💼  
-### MNIST Handwritten Digit Classifier  
+### MNIST Image Classifier  
 
 📂 *Category*: Deep Learning  
 📝 *Context*: Classify handwritten digits with CNN  
 🛠 *Tools*: TensorFlow, Keras  
 📚 *Skills*: CNN layers, dropout, batch norm  
 ✅ *Outcome*: >98% test accuracy  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/03-Convolutional-Neural-Networks)
+🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/06-Deep-Learning/03-Convolutional-Neural-Networks/01-MNIST-Classification/cifar_classification.ipynb)
 
 ---
 
 ### 💼  
-### Air Pollution Forecasting with LSTM  
-
-📂 *Category*: Time Series & Deep Learning  
-📝 *Context*: Forecast air quality using sequence data  
-🛠 *Tools*: TensorFlow, Keras  
-📚 *Skills*: LSTM modeling, RNN preprocessing  
-✅ *Outcome*: Accurate short-term predictions  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/06-Deep-Learning)
-
----
-
-### 💼  
-### Face Recognition with PCA  
-
-📂 *Category*: Unsupervised Learning / Vision  
-📝 *Context*: Dimensionality reduction for facial recognition  
-🛠 *Tools*: Scikit-learn, OpenCV  
-📚 *Skills*: PCA, eigenfaces  
-✅ *Outcome*: Real-time face match based on principal components  
-🔗 [GitHub](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/tree/main/data-challenges/05-ML)
+### ⏱️ [Time Series Modeling with SARIMA](https://github.com/shiro101010101/lewagon-computer-sciencecourse1/blob/main/data-challenges/05-ML/09-Time-Series/solution_05-ML_09-Time-Series_03-SARIMA/sarima_solution.ipynb)  
+Forecasting with statistical SARIMA model  
+**Tools**: Statsmodels, SARIMA  
+**Outcome**: Modeled seasonal trends & generated reliable forecasts
 
 ---
 
