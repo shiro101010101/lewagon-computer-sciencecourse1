@@ -42,14 +42,12 @@ AI & Data Science Project Portfolio
 
 ---
 
-### [Profanity Detector](https://github.com/atathana/profanity_detector)  
-A Python-based profanity detection tool for identifying offensive or inappropriate words in text.  
-**Tools**: Python, Regular Expressions, Custom Wordlist  
-**Features**:  
-- Detects profane words using a customizable dictionary  
-- Replaces profanities with asterisks or custom characters  
-- Lightweight and easy to integrate into other projects  
-**Outcome**: Built a reusable and efficient profanity detection library ready for real-world applications
+### Team Project [Profanity Detector](https://github.com/atathana/profanity_detector)  
+📂 **Category**: NLP / Text Cleaning  
+📝 **Context**: Built a profanity detection library  
+🛠 **Tools**: Python, Regex  
+📚 **Skills**: Dictionary matching, custom filtering logic  
+✅ **Outcome**: Lightweight reusable text sanitization module  
 
 ---
 
